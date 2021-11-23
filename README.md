@@ -1,6 +1,6 @@
 # odin-recipes
 <div>
-This is my fisrt project. 
+This is my first project. 
 Is a recipes list using only HTML.
 </div>
 <div>
